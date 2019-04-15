@@ -1,0 +1,71 @@
+CCA 175
+Category
+
+Topic
+
+Description
+
+Data Ingest
+
+Sqoop
+
+Understand sqoop import and export in detail
+https://archive.cloudera.com/cdh5/cdh/5/sqoop/SqoopUserGuide.html
+
+Data Ingest
+
+Flume and Kafka
+
+Understand ingesting data into HDFS using Flume and Kafka
+
+Data Ingest
+
+HDFS
+
+Understand HDFS commands to copy data back and forth from HDFS
+https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html
+
+Transform, state and store
+
+Spark with scala
+
+Core Spark API such as read/write data using different file formats, joins, aggregations, filters as well as sorting and ranking
+
+Data Analysis
+
+Spark SQL using Scala
+
+Learn Data Frames, Spark SQL along with Hive
+
+Configuration
+
+Command line options
+
+Explore different command line options while submitting Spark jobs
+
+--------------------
+http://www.itversity.com/lessons/cca-spark-and-hadoop-developer-preparation-strategy/
+
+Questions were from Sqoop(import and export), Hive(table creation and dynamic partitioning), Pyspark and Scala(Joining, sorting and filtering data), avro-tools.
+
+https://www.youtube.com/playlist?list=PLf0swTFhTI8q0x0V1E6We5zBQ9UazHFY0
+
+https://www.youtube.com/playlist?list=PLNf_Cu3mErKRX2rM49AYcFIVxOGY3k2X4
+
+https://www.youtube.com/watch?v=RVqTizfQSbo
+
+
+198 for hadoop
+[‎1/‎4/‎2019 5:11 PM]  Kumbhakar, Trilochan:  
+Password@123
+ 
+
+mysql address is jdbc:mysql://10.138.90.198:3306/<db-name>
+
+205 for spark2
+
+
+
+https://www.dumps4download.com/dumps4download-cca175-exam-question-1.html
+
+ssh 978080@10.138.90.205
